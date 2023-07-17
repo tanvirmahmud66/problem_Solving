@@ -1,0 +1,11 @@
+Mingw c++ compiler link-
+https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
+
+
+sublime build system-
+{
+"cmd": ["g++.exe","-std=c++14", "${file}", "-o", "${file_base_name}.exe", "&&" , "${file_base_name}.exe<inputf.in>outputf.in"],
+"shell":true,
+"working_dir":"$file_path",
+"selector":"source.cpp"
+}

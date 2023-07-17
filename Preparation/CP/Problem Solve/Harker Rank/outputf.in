@@ -1,0 +1,29 @@
+FOR->2:    Row:	19	col:   11	Dia:	11 
+FOR->9:    Row:	23	col:   17	Dia:	0 
+FOR->8:    Row:	21	col:   22	Dia:	0 
+FOR->4:    Row:	13	col:   15	Dia:	0 
+FOR->2:    Row:	13	col:   15	Dia:	15 
+FOR->7:    Row:	13	col:   16	Dia:	0 
+FOR->5:    Row:	18	col:   15	Dia:	0 
+FOR->6:    Row:	18	col:   15	Dia:	0 
+FOR->7:    Row:	18	col:   18	Dia:	15 
+
+6 7 2 
+4 2 9 
+5 6 7 
+
+FOR->6:    Row:	15	col:   15	Dia:	15 
+FOR->7:    Row:	15	col:   15	Dia:	0 
+FOR->2:    Row:	15	col:   18	Dia:	0 
+
+FOR->4:    Row:	15	col:   15	Dia:	0 
+FOR->2:    Row:	15	col:   15	Dia:	15 
+FOR->9:    Row:	15	col:   18	Dia:	0 
+
+FOR->5:    Row:	18	col:   15	Dia:	0 
+FOR->6:    Row:	18	col:   15	Dia:	0 
+FOR->7:    Row:	18	col:   18	Dia:	15 
+
+
+
+-2
